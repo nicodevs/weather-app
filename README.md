@@ -13,3 +13,4 @@ A React Native weather application.
 - Setup environment variables
 - Create weather icon mappings
 - Add pull-to-refresh functionality
+- Implement geolocation service (in progress)
