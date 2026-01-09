@@ -3,3 +3,4 @@
 A React Native weather application.
 
 ## Completed Tasks
+- Setup project repository
