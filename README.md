@@ -6,3 +6,4 @@ A React Native weather application.
 - Setup project repository
 - Initialize React Native project
 - Setup ESLint and Prettier
+- Create basic app navigation
