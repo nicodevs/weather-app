@@ -10,3 +10,4 @@ A React Native weather application.
 - Design weather card component
 - Implement current weather display
 - Add temperature display
+- Setup environment variables
