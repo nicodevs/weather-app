@@ -12,3 +12,4 @@ A React Native weather application.
 - Add temperature display
 - Setup environment variables
 - Create weather icon mappings
+- Add pull-to-refresh functionality
